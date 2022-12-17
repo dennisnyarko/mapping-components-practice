@@ -1,5 +1,6 @@
 import React from "react";
 import Entry from "./Entry";
+import emojipedia from "../emojipedia";
 
 function App() {
   return (
